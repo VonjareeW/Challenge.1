@@ -1,7 +1,7 @@
 # Challenge.1
-optimized site for search engines 
+Optimized site for search engines 
 
-refactoring
+Refactoring to make website accesible.
 
 
 Changed the title to reflect the company in browser tab
